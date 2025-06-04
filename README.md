@@ -61,12 +61,13 @@ The user can choose to retake the quiz.
 Applications and Use Cases
 This quiz app can be used in schools and colleges for self-assessment, by organizations for employee training, or by individuals for casual learning. Its modular design allows easy integration of new subjects and difficulty levels, making it adaptable for varied audiences.
 
+Conclusion
+The Interactive Quiz Application provides a modern, interactive, and educational experience for users of all ages. Its intuitive design, real-time feedback system, and dynamic question handling make it an ideal tool for both learning and assessment. It successfully combines simplicity with functionality, delivering a smooth and informative experience that encourages repeated usage and knowledge reinforcement.
+
 
 #OUTPUT - 
 
 ![Image](https://github.com/user-attachments/assets/446e0783-e76a-45f4-8e80-0ffd4faf00d7)
 
-Conclusion
-The Interactive Quiz Application provides a modern, interactive, and educational experience for users of all ages. Its intuitive design, real-time feedback system, and dynamic question handling make it an ideal tool for both learning and assessment. It successfully combines simplicity with functionality, delivering a smooth and informative experience that encourages repeated usage and knowledge reinforcement.
 
 
