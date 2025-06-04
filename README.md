@@ -1,6 +1,6 @@
 # Interactive_Quiz_Application
 
-*COMPANY* : CODTECXH IT SOLUTIONS
+*COMPANY* : CODTECH IT SOLUTIONS
 
 *NAME* : KARTIKEY BORA
 
@@ -13,7 +13,7 @@
 *MENTOR* : NEELA SANTOSH 
 
 
-DESCRIPTION : 
+# DESCRIPTION : 
 Interactive Quiz Application
 The Interactive Quiz Application is a dynamic, web-based platform designed to test users' knowledge across various subjects in an engaging and responsive manner. Developed using HTML, CSS, and JavaScript, this application allows users to attempt a set of questions, receive real-time feedback, track their score, and improve their understanding through instant result analysis.
 
@@ -65,7 +65,7 @@ Conclusion
 The Interactive Quiz Application provides a modern, interactive, and educational experience for users of all ages. Its intuitive design, real-time feedback system, and dynamic question handling make it an ideal tool for both learning and assessment. It successfully combines simplicity with functionality, delivering a smooth and informative experience that encourages repeated usage and knowledge reinforcement.
 
 
-#OUTPUT - 
+# OUTPUT - 
 
 ![Image](https://github.com/user-attachments/assets/446e0783-e76a-45f4-8e80-0ffd4faf00d7)
 
